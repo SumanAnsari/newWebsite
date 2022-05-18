@@ -146,10 +146,6 @@ label.logo2{
     line-height: 30px;
   }
 
-  nav ul li a{
-    font-size:20px;
-  }
-
   a:hover, a.active{
     background: white;
     color:red;
@@ -165,12 +161,11 @@ label.logo2{
     font-size:35px;
     top:5px;
   }
+
   ul{
   	width: 30%;
   }
-  nav ul li a{
-    font-size: 30px;
-  }
+
   .footer{
     font-size: 2vh;
   }
@@ -179,6 +174,7 @@ label.logo2{
   label.logo{
     display: none;
   }
+
   label.logo2{
     display: block;
   }
@@ -198,9 +194,7 @@ label.logo2{
     margin: 50px 0;
     line-height: 30px;
   }
-  nav ul li a{
-    font-size:20px;
-  }
+
   a:hover, a.active{
     background: none;
     color:red;
